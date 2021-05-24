@@ -1,0 +1,46 @@
+body{
+    background-color: cyan;
+}
+.intro{
+    text-align:center;
+    font-size: 30px;
+}
+.padre{
+    display:flex;
+    flex-direction: column;
+    width:300px;
+    font-size:25px;
+    margin:auto;
+    border:3px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: cornsilk;
+}
+
+button {
+    height:30px;
+}
+.padre p{
+    text-align:center;
+}
+
+.padre .com{
+    text-align:left;
+    font-size:18px;
+    font-weight: bold;
+}
+.padre .com1{
+    text-align:left;
+    font-size:15px;
+    margin-top:-10px;
+}
+
+a, span{
+    color:black;
+    text-decoration: none ;
+    border:3px solid black;
+    border-radius: 10px;
+    margin-left: 5px;
+    font-size:20px;
+    background-color: darkgray;
+}

@@ -1,0 +1,32 @@
+body{
+    background-color: yellowgreen;
+}
+.big {
+    display:flex;
+    flex-direction: row;
+    margin-top:20px;
+    width:220px;
+    font-size: 25px;
+    margin-left: 25px;
+}
+.bigger {
+    background-color: white;
+    width:220px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.big div{
+    border: 3px solid black;
+    margin-top: 10px;
+}
+
+form {
+    margin-left: 550px;
+}
+
+a, .utente{
+    font-size:20px;
+    text-decoration:none;
+    color:black;
+}

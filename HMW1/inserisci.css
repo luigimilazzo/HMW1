@@ -1,0 +1,36 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#padre{
+    display:flex;
+    flex-direction: row;
+    width:180px;
+    background-color: white;
+    margin-left:600px;
+    font-size:25px;
+    border-radius: 10px;
+}
+#penitenziario{
+    display:flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+#penitenziario p{
+    border:3px solid black;
+    margin-top: 3px;
+    border-radius: 10px;
+}
+
+#intro{
+    font-size:30px;
+    margin-left:400px;
+}
+a ,span{
+    background-color: yellow;
+    margin-left:5px;
+    font-size:30px;
+    text-decoration:none ;
+    border-radius: 5px;
+    color:black;
+}

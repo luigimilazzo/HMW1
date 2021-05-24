@@ -1,0 +1,24 @@
+body{
+    background-image: url('sfondo.jpg');
+}
+h1{
+    text-align:center;
+    margin-top: 100px;
+}
+#intro {
+    display:flex;
+    background-color: rgb(217, 255, 0);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    height:300px;
+    width:300px;
+    color:black;
+    font-size:25px;
+    border-radius: 20px;
+}
+
+a {
+    color:black;
+}
